@@ -14,6 +14,4 @@ You can learn more about my work and experiences at [chandima.net](https://chand
 
 This repository serves as a collection of my projects, experiments, and contributions to the tech community.
 
----
-
 Feel free to explore and reach out if you have any questions or collaboration ideas!
