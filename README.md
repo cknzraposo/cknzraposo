@@ -1,4 +1,4 @@
-# Hello friends! 
+# Hello friends! 👋
 
 This is My personal repository for various projects.
 
