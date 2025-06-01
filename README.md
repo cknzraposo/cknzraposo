@@ -1,6 +1,6 @@
-# Welcome to CK-NZ
+# Hello friends! 
 
-This is My personal repository. As a technology enthusiast based in New Zealand, I'm passionate about creating efficient and innovative solutions.
+This is My personal repository for various projects.
 
 ## About Me
 
@@ -8,7 +8,7 @@ My professional journey has taken me through different roles in the tech industr
 
 ## Connect With Me
 
-You can learn more about my work and experiences at [chandima.net](https://chandima.net) or connect with me on professional networks.
+You can learn more about my work and experiences at [chandima.net](https://chandima.net).
 
 ## Projects
 
@@ -16,4 +16,4 @@ This repository serves as a collection of my projects, experiments, and contribu
 
 ---
 
-Feel free to explore the code and reach out if you have any questions or collaboration ideas!
+Feel free to explore and reach out if you have any questions or collaboration ideas!
