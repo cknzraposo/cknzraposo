@@ -1,17 +1,22 @@
-# Hello friends! 👋
+# Hi, I'm Chandima 👋
 
-This is My personal repository for various projects.
+> Responsible AI adoption advisor · Endurance running coach · Founder, AI for Good New Zealand
 
-## About Me
+Based in Wellington, NZ — I help organisations cut through the hype and turn AI into durable, real-world advantage. I care about doing this responsibly.
 
-My professional journey has taken me through different roles in the tech industry.
+---
 
-## Connect With Me
+## 🔗 Find me around the web
 
-You can learn more about my work and experiences at [chandima.net](https://chandima.net).
+| | |
+|---|---|
+| 📝 **Blog** | [chandima.net](https://chandima.net) |
+| ✉️ **Substack** | [chandima.substack.com](https://chandima.substack.com) |
+| 📬 **Weekly Roundup** | [What I Read This Week](https://chandima.substack.com/p/weekly-roundup) — every Sunday |
+| 💼 **LinkedIn** | [chandimak](https://www.linkedin.com/in/chandimak/) |
+| 🌱 **AI for Good NZ** | [aiforgood.org.nz](https://www.aiforgood.org.nz) |
+| 🤖 **Percy** | [percy.raposo.ai](https://percy.raposo.ai) — my AI sidekick |
 
-## Projects
+---
 
-This repository serves as a collection of my projects, experiments, and contributions to the tech community.
-
-Feel free to explore and reach out if you have any questions or collaboration ideas!
+Reach out if you want to talk AI strategy, responsible adoption, or running. Always happy to chat. 👟
