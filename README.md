@@ -2,7 +2,7 @@
 
 > Responsible AI adoption advisor · Endurance running coach · Founder, AI for Good New Zealand
 
-Based in Wellington, NZ — I help organisations cut through the hype and turn AI into durable, real-world advantage. I care about doing this responsibly.
+Three decades of building at the edge of what's possible — startups, enterprise transformations, AI adoption. I think in systems, work with people, and care about getting it right. Founder of AI for Good NZ. Running coach. Based in Wellington.
 
 ---
 
