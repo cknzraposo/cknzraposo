@@ -16,6 +16,7 @@ Based in Wellington, NZ — I help organisations cut through the hype and turn A
 | 💼 **LinkedIn** | [chandimak](https://www.linkedin.com/in/chandimak/) |
 | 🌱 **AI for Good NZ** | [aiforgood.org.nz](https://www.aiforgood.org.nz) |
 | 🤖 **Percy** | [percy.raposo.ai](https://percy.raposo.ai) — my AI sidekick |
+| 🏃 **Run Wellington** | [runwellington.com](https://www.runwellington.com) |
 
 ---
 
