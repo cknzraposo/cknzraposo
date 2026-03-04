@@ -6,7 +6,7 @@
 
 ## 🔗 Find me around the web
 
-| | |
+| Connect| @ |
 |---|---|
 | 📝 **Blog** | [chandima.net](https://chandima.net) |
 | ✉️ **Substack** | [chandima.substack.com](https://chandima.substack.com) |
