@@ -9,12 +9,10 @@
 | Connect| @ |
 |---|---|
 | 📝 **Blog** | [chandima.net](https://hello.chandima.net) |
-| ✉️ **Substack** | [chandima.substack.com](https://chandima.substack.com) |
-| 📬 **Weekly Roundup** | [What I Read This Week](https://chandima.substack.com/p/weekly-roundup) - every Sunday |
+| 📬 **Weekly Roundup** | [What I Read This Week](https://chandima.substack.com) - every Sunday |
 | 💼 **LinkedIn** | [chandimak](https://www.linkedin.com/in/chandimak/) |
 | 📢 **GenAI Wellington** | [genAIWellington](https://luma.com/genAIWellington) - Come and join! |
 | 🌱 **AI for Good NZ** | [aiforgood.org.nz](https://www.aiforgood.org.nz) |
-| 🤖 **Percy** | [percy.raposo.ai](https://percy.raposo.ai) - my AI sidekick |
 | 🏃 **Run Wellington** | [runwellington.com](https://www.runwellington.com) |
 
 
